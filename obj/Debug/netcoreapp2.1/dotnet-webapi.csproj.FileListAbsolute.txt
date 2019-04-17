@@ -1,0 +1,14 @@
+C:\Users\jamie.strange\dotnet-webapi\bin\Debug\netcoreapp2.1\dotnet-webapi.deps.json
+C:\Users\jamie.strange\dotnet-webapi\bin\Debug\netcoreapp2.1\dotnet-webapi.runtimeconfig.json
+C:\Users\jamie.strange\dotnet-webapi\bin\Debug\netcoreapp2.1\dotnet-webapi.runtimeconfig.dev.json
+C:\Users\jamie.strange\dotnet-webapi\bin\Debug\netcoreapp2.1\dotnet-webapi.dll
+C:\Users\jamie.strange\dotnet-webapi\bin\Debug\netcoreapp2.1\dotnet-webapi.pdb
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.csprojAssemblyReference.cache
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.csproj.CoreCompileInputs.cache
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.RazorAssemblyInfo.cache
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.RazorAssemblyInfo.cs
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.AssemblyInfoInputs.cache
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.AssemblyInfo.cs
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.RazorTargetAssemblyInfo.cache
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.dll
+C:\Users\jamie.strange\dotnet-webapi\obj\Debug\netcoreapp2.1\dotnet-webapi.pdb
